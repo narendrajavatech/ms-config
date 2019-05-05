@@ -1,0 +1,7 @@
+employeesvcs.getemployeebyid=/employees/{employeeId}
+
+employeesvcs.getallemployees=/employees
+
+employeesvcs.deleteemployeebyid=/employees/{employeeId}
+
+employeesvcs.saveemployee=/employees
